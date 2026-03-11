@@ -1,0 +1,1263 @@
+body{
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+}
+
+#spotify-logo{
+  width: 50px;
+  padding: 30px;
+  margin-top: -15px;
+  margin-left: 5px;
+}
+
+.home-icon{
+    background-color: #181818;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    margin-top: -90px;
+    margin-left: 250px;
+}
+
+#home{
+    margin-left: 8px;
+    margin-top: 7px;
+}
+
+.home-icon:hover{
+    background-color:#3d3d3d71;
+    transform: scale(1.1);
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+
+.busca{
+    width: 650px;
+    border-radius: 30px;
+    height: 50px;
+    background-color: #181818;
+    margin-top: -18px;
+    margin-left: 320px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.barra{
+    width: 0;
+    margin-top: -40px;
+}
+
+.busca:hover{
+    background-color: #474747e1;
+    transition: 0.2s;
+    cursor: pointer;
+
+}
+
+.lupa{
+    margin-top: -47px;
+    margin-left: 330px;
+}
+
+.search{
+    width: 35px;
+}
+
+.search:hover{
+     transform: scale(1.1);
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+.traço{
+    margin-top: -37px;
+    margin-left: 900px;
+}
+
+#line{
+    height: 30px;
+}
+
+.icon-nav{
+    width: 40px;
+}
+
+.icon-nav:hover{
+    transform: scale(1.1);
+    transition: 0.2s;
+    cursor: pointer;
+
+}
+
+.navegar{
+    margin-top: -33px;
+    margin-left: 920px;
+}
+
+.navegacao{
+    margin-left: 1060px;
+    margin-top: -22px;
+    display: flex;
+}
+
+.item1{
+    text-decoration: none;
+    color: #B3B3B3;
+     font-weight: bold;
+    font-size: 16px;
+   
+}
+
+.item1:hover{
+    color: white;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+.p1:hover{
+     opacity: 4;
+    transform: scale(1.1);
+    transition: .35s;
+}
+.item2{
+    margin-left: 10px;
+    text-decoration: none;
+     text-decoration: none;
+    color: #B3B3B3;
+     font-weight: bold;
+    font-size: 16px;
+
+}
+
+.item2:hover{
+    color: white;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+.p2:hover{
+    transform: scale(1.1);
+    opacity: 4;
+    transition: .35s;
+}
+
+
+.item3{
+    margin-left: 10px;
+    text-decoration: none;
+     text-decoration: none;
+    color: #B3B3B3;
+     font-weight: bold;
+    font-size: 16px;
+
+}
+
+.item3:hover{
+    color: white;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+.p3:hover{
+    transform: scale(1.1);
+    opacity: 4;
+    transition: .35s;
+}
+
+.line2{
+    height: 30px;
+    margin-left: 700px;
+}
+
+.traço2{
+    width: 0;
+     margin-top: -25px;
+     margin-left: 600px;
+}
+
+.load{
+    margin-top: -29px;
+    margin-left: 1420px;
+    width: 300px;
+    height: 10px;
+
+}
+
+.load:hover{
+    transform: scale(1.1);
+    opacity: 4;
+    transition: .35s;
+}
+
+.p4{
+   color: #B3B3B3;
+   margin-left: 30px;
+   font-weight: bold;
+   text-decoration: none;
+
+}
+
+.p4:hover{
+    color: white;
+}
+
+.install{
+    margin-top: -20px;
+}
+
+.write{
+    margin-left: 1650px;
+    margin-top: -10px;
+    margin-right: -500px;
+}
+
+.p5{
+    text-decoration: none;
+    color: #B3B3B3;
+    font-weight: bold;
+}
+
+.p5:hover{
+    color: white;
+
+}
+
+.write:hover{
+     transform: scale(1.1);
+    opacity: 4;
+    transition: .35s;
+}
+
+.entrar{
+    background-color: white;
+    border-radius: 30px;
+    height: 55px;
+    width: 120px;
+    margin-left: 990px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.btn-entrar{
+    margin-top: -40px;
+    margin-left: 780px;
+    width: 0;
+}
+
+.entrar:hover{
+    background-color: #faf6f6e7;
+    transform: scale(1.1);
+    transition: .35s;
+}
+
+.sidebar{
+    background-color: #121212;
+   width: 210px;
+    padding: 100px;
+     height: 600px;
+      border-radius: 6px;
+      margin-left: 10px;
+      margin-top: 10px;
+}
+
+.plus-icon{
+    width: 35px;
+    height: 35px;
+    background-color: #181818;
+    border-radius: 50px;
+    margin-top: -45px;
+    margin-left: 255px;
+    
+}
+
+.plus-icon:hover{
+    background-color: #b3b3b32f;
+    transition: 0.2s;
+}
+
+#plus{
+    width: 25px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.p6{
+    margin-top: -70px;
+    margin-left: -80px;
+    font-weight: bold;
+    color: white;
+    font-size: 16px;
+    
+}
+
+.mini-card{
+    width: 390px;
+    background-color: #222121;
+    height: 150px;
+    margin-top: 100px;
+    margin-left: -90px;
+    border-radius: 5px;
+}
+
+.crie{
+    margin-top: -120px;
+    margin-left: 25px;
+   
+}
+
+
+.p7{
+    font-weight: bold;
+    font-size: 17px;
+    margin-left: -100px;
+    margin-right: -50px;
+    margin-top: -20px;
+    color: white;
+}
+
+.p8{
+    font-size: 13px;
+    margin-left: -75px;
+    color: white;
+}
+
+.criar{
+    border-radius: 20px;
+    width: 120px;
+    height: 40px;
+    background-color: white;
+    font-weight: bold;
+    font-size: 13px;
+    margin-left: -80px;
+    margin-top: 5px;
+}
+
+.criar:hover{
+     background-color: #faf6f6e7;
+    transform: scale(1.1);
+    transition: .35s;
+}
+
+.mini-card2{
+    width: 390px;
+    background-color: #222121;
+    height: 150px;
+    margin-top: 45px;
+    margin-left: -90px;
+    border-radius: 5px;
+}
+
+
+.que-tal{
+    margin-top: -125px;
+    margin-left: -175px;
+
+}
+
+.p9{
+    margin-left: 100px;
+    font-size: 15px;
+    margin-right: -900px;
+    margin-top: -20px;
+    font-weight: bold;
+    color: white;
+}
+
+.p10{
+    font-size: 13px;
+    margin-left: -75px;
+    margin-right: -50px;
+    margin-top: -2px;
+    color: white;
+}
+
+.explorar{
+    border-radius: 20px;
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    font-weight: bold;
+    font-size: 13px;
+    margin-left: -80px;
+    margin-top: 5px;
+}
+
+.explorar:hover{
+     background-color: #faf6f6e7;
+    transform: scale(1.1);
+    transition: .35s;
+}
+
+.p11{
+    font-size: 11px;
+    color: #B3B3B3;
+    margin-left: -80px;
+    margin-top: 30px;
+}
+
+.p12{
+    font-size: 11px;
+    color: #B3B3B3;
+    margin-left: -40px;
+    margin-top: -23px;
+    margin-right: -90px;
+}
+
+.p13{
+    font-size: 11px;
+    color: #B3B3B3;
+    margin-left: -80px;
+}
+
+.p14{
+    font-size: 11px;
+    color: #B3B3B3;
+    margin-left: 40px;
+    margin-top: -21px;
+}
+
+.p15{
+    font-size: 11px;
+    margin-left: -81px;
+    color: #B3B3B3;
+
+}
+
+.p16{
+    font-size: 11px;
+    margin-top: -21px;
+    color: #B3B3B3;
+    margin-left: 5px;
+}
+
+.p17{
+    font-size: 12px;
+    color: white;
+    margin-left: -80px;
+}
+
+.p17:hover{
+    text-decoration: underline;
+}
+
+.ps{
+    margin-top: 60px;
+}
+
+.pt-br{
+    width: 180px;
+    height: 30px;
+    border: 1px solid #B3B3B3;
+    margin-top: 30px;
+    margin-left: -80px;
+    border-radius: 30px;
+}
+
+.pt-br:hover{
+    border: 1px solid white;
+    transform: scale(1.1);
+    transition: .35s;
+}
+
+.globo{
+    margin-left: 8px;
+    margin-top: 5px;
+    width: 20px;
+}
+
+.p18{
+    font-size: 13px;
+    color: white;
+    font-weight: bold;
+    margin-top: -20px;
+    margin-left: 38px;
+}
+
+.card{
+    background-color: #121212;
+    width: 1060px;
+    padding: 200px;
+    height: 400px;
+    margin-top: -677px;
+    margin-left: 320px;
+    border-radius: 6px;
+}
+
+.titulo1{
+    margin-top: -170px;
+    margin-left: -165px;
+    font-weight: bold;
+    color: white;
+    font-size: 25px;
+}
+
+.titulo1:hover{
+    text-decoration: underline;
+}
+
+.p19{
+    margin-left: 1130px;
+    margin-right: -300px;
+    font-size: 15px;
+    margin-top: -35px;
+    font-weight: bold;
+    color: #B3B3B3;
+   
+}
+
+.p19:hover{
+    text-decoration: underline white;
+}
+
+.titulo2{
+    font-weight: bold;
+    color: white;
+    font-size: 25px;
+    margin-top: 60px;
+    margin-left: -170px;
+}
+
+.titulo2:hover{
+    text-decoration: underline;
+}
+
+.p20{
+    margin-left: 1130px;
+    margin-right: -300px;
+    font-size: 15px;
+    margin-top: -35px;
+    font-weight: bold;
+    color: #B3B3B3;
+   
+}
+
+.p20:hover{
+    text-decoration: underline white;
+}
+
+.card2{
+    background-image: linear-gradient(45deg, rgb(231, 12, 220), rgb(217, 103, 228), rgb(146, 219, 241) 700px);
+    width: 1880px;
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+.test{
+    color: white;
+    margin-top: -75px;
+    margin-left: 25px;
+}
+
+.testar{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.inscreva{
+    margin-top: -7px;
+    margin-left: 25px;
+}
+
+.gratis{
+    color: white;
+}
+
+.btn-gratis{
+    margin-left: 1690px;
+    margin-top: -60px;
+}
+
+.gratuito{
+    width: 180px;
+    height: 50px;
+    border-radius: 30px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.btn-gratis:hover{
+    transform: scale(1.1);
+    transition: .35s;
+
+}
+
+.album-card1{
+     background-color: #181818;
+    padding: 16px;
+    width: 220px;
+    border-radius: 8px;
+    margin-left: -165px;
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
+
+.tocar1{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    display: none;
+    position: absolute;
+    top: 330px;
+
+}
+
+.tocar1:hover{
+    transform: scale(1.05);
+}
+
+.a:hover .tocar1{
+    display: initial
+}
+
+.album-card1:hover{
+    background-color: #282828;
+}
+
+.a1{
+ margin-top: -255px;
+}
+
+.album-card2{
+     background-color: #181818;
+    padding: 16px;
+    width: 220px;
+    border-radius: 8px;
+    margin-left: 100px;
+    transition: background-color 0.3s;
+    cursor: pointer;
+
+}
+
+.tocar2{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    position: absolute;
+    display: none;
+    top: 330px;
+    left: 905px;
+
+}
+
+.tocar2:hover{
+    transform: scale(1.05);
+}
+
+.a1:hover .tocar2{
+    display: initial;
+}
+
+
+.album-card2:hover{
+    background-color: #282828;
+}
+
+.tocar3{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    position: absolute;
+    display: none;
+    top: 330px;
+    left: 1170px;
+}
+
+.tocar3:hover{
+    transform: scale(1.05);
+}
+
+.a2{
+    margin-top: -18px;
+}
+
+.a2:hover .tocar3{
+    display: initial;
+}
+
+.album-card3{
+    background-color: #181818;
+    padding: 16px;
+    width: 220px;
+    border-radius: 5px;
+    margin-left: 365px;
+    margin-top: -300px;
+     transition: background-color 0.3s;
+    cursor: pointer;
+}
+
+.album-card3:hover{
+      background-color: #282828;
+}
+
+
+
+.a3{
+    margin-top: -255px;
+    margin-left: 630px;
+}
+
+.a3:hover .tocar4{
+    display: initial;
+}
+
+.album-card4{
+    background-color: #181818;
+    padding: 16px;
+     width: 220px;
+    border-radius: 5px;
+     transition: background-color 0.3s;
+    cursor: pointer;
+}
+
+.tocar4{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    position: absolute;
+    display: none;
+    top: 330px;
+    left: 1435px;
+}
+
+.tocar4:hover{
+    transform: scale(1.05);
+}
+
+
+.album-card4:hover{
+    background-color: #282828;
+}
+
+.a4{
+    margin-top: -255px;
+    margin-left: 895px;
+}
+
+.a4:hover .tocar5{
+   display: initial;
+}
+
+.album-card5{
+ background-color: #181818;
+    padding: 16px;
+     width: 220px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
+
+.tocar5{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    position: absolute;
+    display: none;
+    top: 330px;
+    left: 1696px;
+}
+
+.tocar5:hover{
+    transform: scale(1.05);
+}
+
+
+.album-card5:hover{
+    background-color: #282828;
+}
+
+
+.artist-card1{
+    background-color: #181818;
+    padding: 16px;
+     width: 220px;
+    border-radius: 5px;
+    margin-left: -170px;
+    margin-top: -5px;
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
+
+.play1{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    position: absolute;
+    display: none;
+    top: 695px;
+    left: 634px;
+}
+
+.play1:hover{
+    transform: scale(1.05);
+}
+
+.ar:hover .play1{
+   display: initial;
+}
+
+.artist-card1:hover{
+    background-color: #282828;
+}
+
+.ar1{
+margin-top: -295px;
+margin-left: 265px;
+}
+
+.artist-card2{
+     background-color: #181818;
+    padding: 16px;
+     width: 220px;
+    border-radius: 5px;
+    margin-left: -170px;
+    margin-top: 40px;
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
+
+.play2{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    position: absolute;
+    display: none;
+    top: 695px;
+    left: 898px;
+}
+
+.play2:hover{
+    transform: scale(1.05);
+}
+
+.ar1:hover .play2{
+   display: initial;
+}
+
+.artist-card2:hover{
+     background-color: #282828;
+    
+}
+
+.ar2{
+    margin-top: -18px;
+}
+
+.artist-card3{
+    background-color: #181818;
+    padding: 16px;
+     width: 220px;
+    border-radius: 5px;
+    margin-left: -170px;
+    margin-top: 40px;
+     margin-top: -410px;
+    margin-left: 360px;
+     transition: background-color 0.3s;
+    cursor: pointer;
+}
+
+.play3{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    position: absolute;
+    display: none;
+    top: 695px;
+    left: 1165px;
+}
+
+.play3:hover{
+    transform: scale(1.05);
+}
+
+.ar2:hover .play3{
+   display: initial;
+}
+
+.artist-card3:hover{
+    background-color: #282828;
+}
+
+.ar3{
+    margin-left: 835px;
+    margin-top: -285px;
+}
+
+.artist-card4{
+        background-color: #181818;
+    padding: 16px;
+     width: 220px;
+    border-radius: 5px;
+    margin-left: -210px;
+    margin-top: 30px;
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
+
+.play4{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    position: absolute;
+    display: none;
+    top: 695px;
+    left: 1430px;
+}
+
+.play4:hover{
+    transform: scale(1.05);
+}
+
+.ar3:hover .play4{
+   display: initial;
+}
+
+.artist-card4:hover{
+    background-color: #282828;
+}
+
+.ar4{
+    margin-top: -255px;
+    margin-left: 890px;
+
+}
+
+.artist-card5{
+     background-color: #181818;
+    padding: 16px;
+     width: 220px;
+    border-radius: 5px;
+     transition: background-color 0.3s;
+    cursor: pointer;
+}
+
+.play5{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    position: absolute;
+    display: none;
+    top: 695px;
+    left: 1695px;
+}
+
+.play5:hover{
+    transform: scale(1.05);
+}
+
+.ar4:hover .play5{
+   display: initial;
+}
+
+.artist-card5:hover{
+    background-color: #282828;
+}
+
+.song1{
+    margin-top: -370px;
+    margin-left: -160px;
+}
+
+.s1{
+    color: white;
+    font-size: 13px;
+}
+
+.s1:hover{
+    text-decoration: underline;
+}
+
+.name1{
+    margin-left: -160px;
+}
+
+.pp1{
+    color: white;
+    font-size: 12px;
+}
+
+.pp1:hover{
+    text-decoration: underline;
+}
+
+.song2{
+    margin-top: -55px;
+    margin-left: 105px;
+}
+
+.s2{
+     color: white;
+    font-size: 13px;
+}
+
+.s2:hover{
+    text-decoration: underline;
+
+}
+
+.name2{
+    margin-left: 105px;
+
+}
+
+.pp2{
+    color: white;
+    font-size: 12px;
+}
+
+.pp2:hover{
+    text-decoration: underline;
+}
+
+.song3{
+    margin-top: -55px;
+    margin-left: 370px;
+}
+
+.s3{
+      color: white;
+    font-size: 13px;
+}
+
+.s3:hover{
+    text-decoration: underline;
+}
+
+.name3{
+     margin-left: 370px;
+
+}
+
+.pp3{
+     color: white;
+    font-size: 12px;
+}
+
+.pp3:hover{
+    text-decoration: underline;
+}
+
+.song4{
+      margin-top: -55px;
+    margin-left: 635px;
+}
+
+.s4{
+    color: white;
+    font-size: 13px; 
+}
+
+.s4:hover{
+    text-decoration: underline;
+}
+
+.name4{
+    margin-left: 635px;
+}
+
+.pp4{
+     color: white;
+    font-size: 12px;
+}
+
+.pp4:hover{
+    text-decoration: underline;
+}
+
+.song5{
+      margin-top: -55px;
+    margin-left: 900px;
+}
+
+.s5{
+    color: white;
+    font-size: 13px; 
+}
+
+.s5:hover{
+    text-decoration: underline;
+}
+
+.name5{
+    margin-left: 900px;
+}
+
+.pp5{
+     color: white;
+    font-size: 12px;
+}
+
+.pp5:hover{
+    text-decoration: underline;
+}
+
+.person1{
+    margin-top: 317px;
+    margin-left: -165px;
+}
+
+.m1{
+    color: white;
+    font-size: 13px; 
+}
+
+.m1:hover{
+    text-decoration: underline;
+}
+
+.art1{
+    margin-left: -167px;
+
+}
+
+.mm1{
+    color: white;
+    font-size: 12px;
+}
+
+.mm1:hover{
+    text-decoration: underline;
+}
+
+.person2{
+    margin-top: -50px;
+    margin-left: 100px;
+}
+
+.m2{
+    color: white;
+    font-size: 13px; 
+}
+
+.m2:hover{
+    text-decoration: underline;
+}
+
+.art2{
+    margin-left: 100px;
+    margin-top: -5px;
+
+}
+
+.mm2{
+    color: white;
+    font-size: 12px;
+}
+
+.mm2:hover{
+    text-decoration: underline;
+}
+
+.person3{
+    margin-top: -50px;
+    margin-left: 365px;
+}
+
+.m3{
+    color: white;
+    font-size: 13px; 
+}
+
+.m3:hover{
+    text-decoration: underline;
+}
+
+.art3{
+    margin-left: 365px;
+    margin-top: -5px;
+
+}
+
+.mm3{
+    color: white;
+    font-size: 12px;
+}
+
+.mm3:hover{
+    text-decoration: underline;
+}
+
+.person4{
+    margin-top: -50px;
+    margin-left: 630px;
+}
+
+.m4{
+    color: white;
+    font-size: 13px; 
+}
+
+.m4:hover{
+    text-decoration: underline;
+}
+
+.art4{
+    margin-left: 630px;
+    margin-top: -5px;
+
+}
+
+.mm4{
+    color: white;
+    font-size: 12px;
+}
+
+.mm4:hover{
+    text-decoration: underline;
+}
+
+.person5{
+    margin-top: -50px;
+    margin-left: 895px;
+}
+
+.m5{
+    color: white;
+    font-size: 13px; 
+}
+
+.m5:hover{
+    text-decoration: underline;
+}
+
+.art5{
+    margin-left: 895px;
+    margin-top: -5px;
+
+}
+
+.mm5{
+    color: white;
+    font-size: 12px;
+}
+
+.mm5:hover{
+    text-decoration: underline;
+}
+
+footer{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-left: 500px;
+    margin-top: 5px;
+    font-size: 12px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
